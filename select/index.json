@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ハートフォレスト",
+  "base_artist": "小倉唯",
+  "createdAt": "2026-03-02T12:47:48.014199Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハートフォレスト",
+      "artist": "Yui Ogura",
+      "has_synced": true,
+      "path": "select/01_ハートフォレスト_Yui_Ogura.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハートフォレスト",
+      "artist": "Ogura, Yui",
+      "has_synced": true,
+      "path": "select/02_ハートフォレスト_Ogura,_Yui.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハートフォレスト",
+      "artist": "小倉唯",
+      "has_synced": true,
+      "path": "select/03_ハートフォレスト_小倉唯.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハートフォレスト",
+      "artist": "小倉唯",
+      "has_synced": false,
+      "path": "select/pl_01_ハートフォレスト_小倉唯.txt"
+    }
+  ]
+}
